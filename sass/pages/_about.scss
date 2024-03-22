@@ -1,0 +1,472 @@
+
+.container-fluid{
+    button{
+        border-radius: 50px;
+        background-color: rgba(240, 248, 255, 0);
+    }
+    .a-1{
+color: $qorqroq;
+font-size: 24px;
+font-weight: 400;
+font-family: ClashDisplay;
+    }
+}
+.div-1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.button-5{
+    width: 40px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    border: 0;
+}
+.div-2{
+    border: double 1px $chiziq;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    height: 1px;
+    margin: 12px auto 20px auto;
+}
+.div-3{
+    max-width: 680px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 13px;
+    ul{
+        display: flex;
+        justify-content: space-between;
+        gap: 45px;
+        a{
+            font-size: 16px;
+            color:$navbar;
+        }
+        .li-1{
+        text-align:center; }
+    }
+}
+// navmar tugapi
+.div-4{
+    margin-top: 102px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 174, 0, 0.005);
+    max-height: 708px;
+    width: 100%;
+    .img-1{
+        z-index: -5;
+        max-height:708px ;
+        width:100%;
+    }
+}
+.div-7{
+    background-color: $oq;
+    max-width: 630px;
+    max-height: 444px;
+    h1{
+        font-family:lllll;
+font-size: 32px;
+font-weight: 400;
+line-height: 44.8px;
+color:$h1color;
+padding: 48px 81px 20px 56px ;
+background-color: $oq;
+    }
+    .p-2{
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color:$c5B5676;
+margin:0 61px 157px 56px;
+    }
+    .p-1{
+        display: none;
+    }
+    button{
+        background-color: $cF9F9F9;
+        height: 56px;
+        margin:0 61px 46px 56px ;
+        padding: 20px;
+        a{
+font-weight: 400;
+margin: 16px 32px;
+color:$c2A254B;
+}
+    }
+}
+.div-6{
+    display: flex;
+    justify-content: end;
+    height: 100%;
+    width: 100%;
+}
+.div-8{
+    position: absolute;
+    display: flex;
+    justify-content: end;
+}
+// mein boshladim
+.h3-1{
+    font-family: lllll;
+    margin: 80px auto 36px auto;
+    text-align: center;
+font-size: 24px;
+font-weight: 400;
+color:$c2A254B;
+}
+.div-9{
+    width: 304px;
+    background-color:$cF9F9F9;
+    padding: 48px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+   .svg1{
+    rect{
+        fill:#4e4d9300;
+    }
+   }
+    }
+    h4{
+        font-family: lllll;
+font-size: 20px;
+font-weight: 400;
+color: $c2A254B;
+    }
+    p{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: $c2A254B;
+    }
+
+.div-10{
+    display: flex;
+    justify-content: center;
+
+    // flex-wrap: wrap;
+    gap: 22px;
+}
+// rasm
+.div-11{
+    max-width: 305px;
+    img{
+        width:100%;
+    }
+    h6{
+        font-family: lllll;
+margin: 24px 0 8px 0;
+font-size: 20px;
+font-weight: 400;
+color: $c2A254B;
+    }
+    p{
+font-size: 18px;
+font-weight: 400;
+color:$c2A254B;
+    }
+
+}
+.div-12{
+    padding-top: 110px;
+    display: flex;
+    // justify-content: space-between;
+    justify-content: center;
+    gap: 30px;
+}
+.div-13{
+    margin: 48px auto 100px auto;
+    text-align: center;
+    button{
+        width: 170px;
+        height: 56px;
+        color: $cF9F9F9;
+        a{
+font-family: satoshi;
+font-size: 16px;
+font-weight: 400;
+color:$c2A254B;
+        }
+    }
+}
+.div-14{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    background-color:$c2A254B;
+    width:48.6%;
+    padding: 5%;
+    position: relative;
+    
+    .div-17{
+
+        h4{
+            font-family: lllll;
+            font-size: 32px;
+            font-weight: 400;
+            color: $oq;
+        }
+        p{
+            font-family: Satoshi;
+            font-size: 18px;
+            font-weight: 400;
+            color: $oq;
+            margin-top: 12px;
+            line-height: 25px;
+        }
+    }
+    button{
+        width: 170px;
+        height: 56px;
+        background-color:#f9f9f92b;
+        a{
+font-size: 16px;
+font-weight: 400;
+ color: $oq;
+        }
+    }
+}
+.div-15{
+    width:48.6%;
+            max-height: 1000px;
+    a{
+        img{
+            width:100%;
+        height:auto;
+        }
+    }
+}
+.div-16{
+    margin-bottom: 60px;
+    display: flex;
+    justify-content:space-between;
+    // max-height:478px;
+    gap: 10px;
+}
+// tugadi
+.div-18{
+    padding-top: 97px;
+    padding-bottom: 86px;
+    max-width: 500px;
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    color: $c2A254B;
+    h2{
+font-family: lllll;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 44.8px;
+        color: $qorqroq;
+    }
+    p{
+        max-width: 430px;
+        margin-top: 15px;
+        margin-bottom: 35px;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: $qorqroq;
+    }
+    ul{text-align: center;
+        display: flex;
+        gap: 37px;
+        color: $qorqroq;
+        font-weight: 400;
+        line-height: 24px;
+        margin-bottom: 40px;
+    }
+}
+
+.div-20{
+    background-image: url(../sass/img/songi-rasm.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    img{
+        width: 100%;
+        max-height: 444px;
+        z-index: 2;
+    }
+}
+.form{
+    display: flex;
+    max-width:672px;
+    input{
+        border: 0;
+        background-color: $oq;
+        color: $c2A254B;
+    width:100%;
+    height: 56px;
+    padding-left: 15px;
+
+    }
+    button{
+        border-radius: 0;
+        color: $oq;
+        background-color: $c2A254B;
+        width: 117px;
+        height: 56px;
+    }
+
+}
+.div-21{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    ul{
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        p{
+font-size: 16px;
+font-weight: 400;
+color: $oq;
+        }
+        li{
+            a{
+
+                font-size: 14px;
+                font-weight: 400;
+                color: $oq;
+            }
+
+        }
+    }
+}
+.input-1{
+    padding-left: 20px;
+width:100%;
+height: 56px;
+background-color: $C4A4566;
+border: 0;
+}
+.form-1{
+     display: flex;
+    button{
+        width: 118px;
+        height: 55px;
+        color: $qorqroq;
+        background-color: $oq;
+        border-radius: 0;
+    }
+}
+.div-22{
+    padding-top: 58px;
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+    background-color:$c2A254B;
+}
+.div-23{
+    width: 45%;
+    p{
+        color: $oq;
+        margin-left: 10px;
+        margin-bottom: 16px;
+    }
+}
+.div-24{
+    border: double 1px #4E4D93;
+}
+footer{
+    background-color: $c2A254B;
+}
+.div-26{
+    
+    a:hover{
+     .svg{
+        rect{
+            fill:#fff;
+        }
+        path{
+            fill:#e61818;
+        }
+     }
+    }
+}
+.div-25{
+    padding-top: 25px;
+    padding-bottom: 25px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+p{
+font-size: 14px;
+font-weight: 400;
+color: $oq;
+}
+}
+.div-21{
+    ul{
+        li:hover{
+            a{
+                color: #828285;
+            }
+        }
+    }
+}
+.div-23{
+    form{
+        .input-1:hover{
+            background-color: #c2c2c46d;
+        }
+        button:hover{
+            background-color: #aaaab0;
+        }
+        
+    }
+}
+.div-18{
+    form{
+        input:hover{
+            background-color: #9e9ea4ab;
+        }
+        button:hover{
+            background-color: #3737a3;
+        }
+        
+    }
+}
+.div-14{
+    button:hover{
+background-color: #bcbcbde1;
+    }
+}
+.div-13{
+    button:hover{
+background-color: #969699e1;
+    }
+}.div-7{
+    button{
+        height: 56px;
+    }
+    button:hover{
+background-color: #969699e1;
+    }
+}
+    .div-3:hover{
+        ul{
+            li{
+                a:hover{
+                    color: #ea150e;
+                }
+            }
+        }
+    }             
